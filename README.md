@@ -54,5 +54,3 @@ streamlit run stream-ui.py
 - Push to the branch (git push origin feature/your-feature-name)
 - Open a pull request
 
-Members: Dharanidhara, Ankith, Yousuf, Pavan
-![alt text](assets/image.png)
